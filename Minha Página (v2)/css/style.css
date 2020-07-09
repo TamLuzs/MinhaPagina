@@ -1,0 +1,117 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+body {
+    background: #E8C5C5;
+    margin: 0 15%;
+    text-align: justify;
+}
+
+/* Menu */
+nav p{
+   font-size: 65px;
+   text-align: center;
+   padding: 5px;
+   font-family: fantasy;
+   color: #333232;
+}
+
+#menu ul{
+    padding: 0;
+    margin: 0;
+    float: left;
+    width: 100%;
+    background-color:#EDEDED;
+    list-style:none;
+}
+
+#menu ul li { 
+    display: inline; 
+}
+
+#menu ul li a {
+    background-color:#EDEDED;
+    color: #000000;
+    text-decoration: none;
+    padding: 5px;
+    float:left;
+    margin-left: 10%;
+    
+}
+
+#menu ul li a:hover {
+    background-color:#D6D6D6;
+    color: #6D6D6D;
+}
+
+/*Apresentação*/
+header{
+    padding-top: 55px;
+    padding-bottom: 25px;  
+}
+
+/*Conteúdo*/
+section{
+    width: 100%;
+    height: 100%;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 15px;
+    text-decoration: underline;
+    font-size: 28px;
+    color: #545454;
+}
+
+p{
+    font-size: 17px;
+}
+
+/*Boxes de Imagens*/
+img{
+    border: 2px solid #EDEDED;
+}
+
+.boxImg{
+    margin-left: 8%;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.boxParceiro{
+    margin-left: 12%;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+/*Contato*/
+.logoContato{
+    width:50px;
+}
+
+#contato{
+    text-align: center;
+}
+
+.boxContato a{
+    text-decoration: none;
+}
+
+.boxContato a img{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+/*Rodapé*/
+footer {
+   margin-top: 25px;
+   font-size: 12px;
+   text-align: center;
+   background-color:#EDEDED;
+   height: 15px;
+   padding: 10px;
+   color: #6D6D6D;
+}

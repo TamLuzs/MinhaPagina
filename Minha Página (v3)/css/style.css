@@ -1,0 +1,137 @@
+* {
+  margin: 0 auto; 
+  padding: 0 auto;
+  box-sizing: border-box; 
+}
+
+body {
+    background-color: #DCDCDC;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/*Menu, Titulo e Seção*/
+header {
+    height: 105px;
+    width: 100%;
+    color: #DCDCDC;
+    background-color: #1C1C1C;
+    text-align: center;
+}
+
+.logo{
+    font-size: 40px;
+    padding: 15px;
+}
+
+nav {
+    height: 30px;
+    background-color:#4F4F4F;
+    padding-top: 5px;
+}
+
+nav a{
+    display: inline;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    color: #DCDCDC;
+}
+
+nav a:hover{
+    background-color: #DCDCDC;
+    color: #4F4F4F;
+}
+
+article {
+    clear: both;
+    background-color: #A9A9A9;
+    width: 70%;
+    float: left;
+}
+
+aside {
+    background-color: 	#DCDCDC;
+    width: 30%;
+    float: right;
+}
+
+a{
+    text-decoration: none;
+}
+
+#parceiros,#contato{
+    padding-top: 60px;
+}
+
+/*Estilização de Texto e Imagem*/
+h2{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h3{
+    text-align: center;
+    padding-bottom: 25px;
+    text-decoration: underline;
+}
+
+.titulo-minhaPagina{
+    padding-top: 15px;
+}
+
+p{
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 15px;
+    text-align: justify;
+}
+
+.boxImg{
+    padding-top: 22px;
+    padding-left: 25%;
+}
+
+.bordaImg{
+    border: 2px double #4F4F4F;
+    width: 300px;
+    height: 150px;
+}
+
+.boxImgContato{
+    width: 300px;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.ImgParceiro{
+    width: 130px;
+    height: 99px;
+    margin: 1.5px;
+    border: 1px solid #ffffff;
+    border-radius: 5%;
+}
+
+.logoContato{
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-bottom: 55px;
+    width: 50px;
+    border-radius: 55%;
+}
+
+.textContato{
+    text-align: center;
+}
+
+/*Rodapé*/
+footer p{
+    clear: both;
+    width: 100%;
+    color: #DCDCDC;
+    background-color: #1C1C1C;
+    text-align: center;
+    height: 30px;
+    padding: 5px;
+}
