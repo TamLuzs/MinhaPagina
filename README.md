@@ -1,5 +1,5 @@
 # Site - Minha Página
-![](https://www.coderfactory.com.br/cf-assets/uploads/2019/09/formacao-frontend.png)
+![](https://www.conectaai.com/wp-content/uploads/2019/06/WhatsApp-Image-2019-06-18-at-10.05.23.jpeg)
 ## Objetivo:
 Construir um site do zero com conceitos básicos apresentando no curso programação para internet com HTML5 e CSS3 da Innovation One no Bootcamp da Prefeitura Municipal de Curitiba.
 
