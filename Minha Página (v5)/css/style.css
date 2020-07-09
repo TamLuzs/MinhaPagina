@@ -1,0 +1,89 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    color: #000000;
+    width: auto;
+    font-family: cursive;
+}
+
+header{
+    display: inline-flex;
+    flex-flow: row nowrap;
+    width: 100%;
+    background-color: LightCoral;
+}
+
+.logo{
+    padding: 15px;
+}
+
+nav{
+    padding-top: 23px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.link-menu{
+    padding: 5px;
+}
+
+.link-menu:hover{
+    background-color: LightPink	;
+    color: IndianRed;
+}
+
+section{
+    padding-top:20px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+h2{
+    padding: 15px;
+    color: LightCoral;
+}
+
+p{
+    text-align: justify;
+}
+
+.boxImg{
+    padding-top: 20px;
+    padding-left: 10%;
+}
+
+.boxImg img{
+    width: 300px;
+    height: 200px;
+    border-radius: 25%;
+    border: 1px solid LightCoral;
+}
+
+.logoContato{
+    width: 65px;
+    height: 50px;
+}
+
+#contato h2{
+    padding-bottom: 25px;
+}
+
+.boxContato{
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+.imgLogo{
+    padding-left: 30px;
+}
+
+footer{
+    display: inline-flex;
+    justify-content: center;
+    width: 100%;
+    background-color: LightCoral;
+    padding: 15px;
+}
