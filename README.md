@@ -3,7 +3,6 @@
 
 ------------
 
-
 ### Objetivo:
 Construir um site do zero com conceitos básicos apresentando no curso programação para internet com HTML5 e CSS3 da Innovation One no Bootcamp da Prefeitura Municipal de Curitiba.
 
@@ -23,7 +22,8 @@ Construir um site do zero com conceitos básicos apresentando no curso programa�
 - **MinhaPagina (v5):** Utilizando FlexBox (Em produção);
 - **MinhaPagina (v6):** Utilizando Grid (Fila de Espera).
 
-[========]
+
+
 
 > **Observação: ** Apenas v1 foi desenvolvida no curso e as demais alterações foram feitas por conta própria para exploramos o máximo dessa página.
 
