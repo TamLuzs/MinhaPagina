@@ -22,10 +22,11 @@ Construir um site do zero com conceitos básicos apresentando no curso programa�
 - **v5:** Utilizando FlexBox (Em produção);
 - **v6:** Utilizando Grid (Fila de Espera).
 
-
-
+<br>
 
 > **Observação:** Apenas v1 foi desenvolvida no curso e as demais alterações foram feitas por conta própria para exploramos o máximo dessa página.
+
+<br>
 
 ### Ferramentas/Codificação Utilizadas:
 - VsCode;
