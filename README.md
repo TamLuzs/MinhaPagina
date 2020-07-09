@@ -25,7 +25,7 @@ Construir um site do zero com conceitos básicos apresentando no curso programa�
 
 
 
-> **Observação: ** Apenas v1 foi desenvolvida no curso e as demais alterações foram feitas por conta própria para exploramos o máximo dessa página.
+> **Observação:** Apenas v1 foi desenvolvida no curso e as demais alterações foram feitas por conta própria para exploramos o máximo dessa página.
 
 ### Ferramentas/Codificação Utilizadas:
 - VsCode;
