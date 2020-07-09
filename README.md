@@ -15,12 +15,12 @@ Construir um site do zero com conceitos básicos apresentando no curso programa�
 - Contato.
 
 **Versões**
-- **MinhaPagina (v1):** Desenvolvido no curso;
-- **MinhaPagina (v2):** Alteração no CSS, sendo a 1° tentativa de responsibilidade;
-- **MinhaPagina (v3):** Alteração no CSS,sendo a 2° tentativa de responsibilidade utilizando a propriedade de porcetagem(%) e float;
-- **MinhaPagina (v4):** Alteração no HTML e CSS utilizando Bootstrap;
-- **MinhaPagina (v5):** Utilizando FlexBox (Em produção);
-- **MinhaPagina (v6):** Utilizando Grid (Fila de Espera).
+- **v1:** Desenvolvido no curso;
+- **v2:** Alteração no CSS, sendo a 1° tentativa de responsibilidade;
+- **v3:** Alteração no CSS,sendo a 2° tentativa de responsibilidade utilizando a propriedade de porcetagem(%) e float;
+- **v4:** Alteração no HTML e CSS utilizando Bootstrap;
+- **v5:** Utilizando FlexBox (Em produção);
+- **v6:** Utilizando Grid (Fila de Espera).
 
 
 
